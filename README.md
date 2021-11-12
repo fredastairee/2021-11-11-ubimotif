@@ -12,3 +12,7 @@
 - [GitHub Materials](https://malvikasharan.github.io/developing_collaborative_document/)
 - [Git materials](https://swcarpentry.github.io/git-novice/)
 - [Video tutorial for it](https://www.youtube.com/watch?v=fTRtzsYo7Ho)
+
+## Project Members
+
+- Sophia Louise Lucille Park
