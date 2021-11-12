@@ -11,4 +11,10 @@
 - [Python Materials](https://idpfun.github.io/IDP_Python/)
 - [GitHub Materials](https://malvikasharan.github.io/developing_collaborative_document/)
 - [Git materials](https://swcarpentry.github.io/git-novice/)
-- [Video tutorial for it](https://www.youtube.com/watch?v=fTRtzsYo7Ho)
+- Video tutorial for Git: https://www.youtube.com/watch?v=fTRtzsYo7Ho
+
+** Thank you for reading this! **
+
+![Piggybaskin picture](https://www.instagram.com/p/CVpzkQ7JRir/)
+
+*Image from piggybaskin*
