@@ -16,7 +16,7 @@ commands (BASH shell — most basic shell)
 7. ls (show your new folder you made)
 
 ## Checkbox list
-* [ ] cd 2021-11-11-ubimotif (to move to this directory)
+* [x] cd 2021-11-11-ubimotif (to move to this directory)
 * [ ] cd - (moves you back to Desktop)
 cd - (two times, moves you back to your old folder, a way to jump between two folders)
 cd .. (moves you back a folder)
