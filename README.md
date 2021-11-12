@@ -15,4 +15,4 @@
 
 ## Project Members
 
-- Sophia
+- Sophia Louise Lucille Park
